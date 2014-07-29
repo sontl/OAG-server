@@ -1,0 +1,474 @@
+2014/07/29 00:10:31 [I] Object otpions called 
+2014/07/29 00:10:31 [W] Warn 
+2014/07/29 00:10:31 [T] trace 
+2014/07/29 00:10:31 [C] the request url is  /v1/object 
+2014/07/29 00:10:31 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:10:31 [C] /Users/sontl/go/src/art/controllers/object.go 42 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:10:31 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:10:31 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:11:23 [I] Object otpions called 
+2014/07/29 00:11:23 [W] Warn 
+2014/07/29 00:11:23 [T] trace 
+2014/07/29 00:11:23 [C] the request url is  /v1/object 
+2014/07/29 00:11:23 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:11:23 [C] /Users/sontl/go/src/art/controllers/object.go 42 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:11:23 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:11:23 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:11:59 [I] beego: router defined /v1/object/ /v1/object +6.721713ms 
+2014/07/29 00:13:11 [I] Object otpions called 
+2014/07/29 00:13:11 [W] Warn 
+2014/07/29 00:13:11 [T] trace 
+2014/07/29 00:13:11 [C] the request url is  /v1/object 
+2014/07/29 00:13:11 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:13:11 [C] /Users/sontl/go/src/art/controllers/object.go 42 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:13:11 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:13:11 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:13:16 [I] Object otpions called 
+2014/07/29 00:13:16 [W] Warn 
+2014/07/29 00:13:16 [T] trace 
+2014/07/29 00:13:16 [C] the request url is  /v1/object 
+2014/07/29 00:13:16 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:13:16 [C] /Users/sontl/go/src/art/controllers/object.go 42 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:13:16 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:13:16 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:13:52 [I] beego: router defined /v1/object/ /v1/object +4.162027ms 
+2014/07/29 00:20:30 [I] Object otpions called 
+2014/07/29 00:20:30 [W] Warn 
+2014/07/29 00:20:30 [T] trace 
+2014/07/29 00:20:30 [C] the request url is  /v1/object 
+2014/07/29 00:20:30 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:20:30 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:20:30 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:20:30 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:21:33 [W] Warn 
+2014/07/29 00:21:33 [C] the request url is  /v1/object 
+2014/07/29 00:21:33 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:21:33 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:21:33 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:21:33 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:21:56 [W] Warn 
+2014/07/29 00:21:56 [I] file Uploaded:  IMG_2337.JPG 
+2014/07/29 00:21:56 [I] file is not null IMG_2337.JPG 
+2014/07/29 00:21:56 [I] beego: router defined /v1/object/ /v1/object +5.1572ms 
+2014/07/29 00:22:33 [W] Warn 
+2014/07/29 00:22:33 [I] file Uploaded:  IMG_2337.JPG 
+2014/07/29 00:22:33 [I] file is not null IMG_2337.JPG 
+2014/07/29 00:22:33 [I] beego: router defined /v1/object/ /v1/object +5.745436ms 
+2014/07/29 00:23:25 [W] Warn 
+2014/07/29 00:23:25 [C] the request url is  /v1/object 
+2014/07/29 00:23:25 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:23:25 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:23:25 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:23:25 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:24:17 [W] Warn 
+2014/07/29 00:24:17 [C] the request url is  /v1/object 
+2014/07/29 00:24:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:24:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:24:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:24:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:25:23 [W] Warn 
+2014/07/29 00:25:23 [C] the request url is  /v1/object 
+2014/07/29 00:25:23 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:25:23 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:25:23 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:25:23 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:26:05 [W] Warn 
+2014/07/29 00:26:05 [C] the request url is  /v1/object 
+2014/07/29 00:26:05 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:26:05 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:26:05 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:26:05 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:27:38 [W] Warn 
+2014/07/29 00:27:38 [C] the request url is  /v1/object 
+2014/07/29 00:27:38 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:27:38 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:27:38 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:27:38 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:27:45 [W] Warn 
+2014/07/29 00:27:45 [C] the request url is  /v1/object 
+2014/07/29 00:27:45 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:27:45 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:27:45 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:27:45 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:28:11 [W] Warn 
+2014/07/29 00:28:11 [C] the request url is  /v1/object 
+2014/07/29 00:28:11 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:28:11 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:28:11 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:28:11 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:28:51 [W] Warn 
+2014/07/29 00:28:51 [I] file Uploaded:  IMG_2337.JPG 
+2014/07/29 00:28:51 [I] file is not null IMG_2337.JPG 
+2014/07/29 00:28:51 [I] beego: router defined /v1/object/ /v1/object +10.861656ms 
+2014/07/29 00:29:41 [W] Warn 
+2014/07/29 00:29:41 [C] the request url is  /v1/object 
+2014/07/29 00:29:41 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:29:41 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:29:41 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:29:41 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:17 [W] Warn 
+2014/07/29 00:30:17 [C] the request url is  /v1/object 
+2014/07/29 00:30:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:17 [W] Warn 
+2014/07/29 00:30:17 [C] the request url is  /v1/object 
+2014/07/29 00:30:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:17 [W] Warn 
+2014/07/29 00:30:17 [C] the request url is  /v1/object 
+2014/07/29 00:30:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:17 [W] Warn 
+2014/07/29 00:30:17 [C] the request url is  /v1/object 
+2014/07/29 00:30:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:17 [W] Warn 
+2014/07/29 00:30:17 [C] the request url is  /v1/object 
+2014/07/29 00:30:17 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:17 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:17 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:30:51 [W] Warn 
+2014/07/29 00:30:51 [C] the request url is  /v1/object 
+2014/07/29 00:30:51 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:30:51 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:30:51 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:30:51 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:31:53 [W] Warn 
+2014/07/29 00:31:53 [C] the request url is  /v1/object 
+2014/07/29 00:31:53 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:31:53 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:31:53 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:31:53 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:32:04 [W] Warn 
+2014/07/29 00:32:04 [C] the request url is  /v1/object 
+2014/07/29 00:32:04 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:32:04 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:32:04 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:32:04 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:33:38 [I] beego:/v1/object2 404 +781.458us 
+2014/07/29 00:35:44 [I] beego:/v1/object2 404 +733.671us 
+2014/07/29 00:36:19 [W] Warn 
+2014/07/29 00:36:19 [C] the request url is  /v1/object 
+2014/07/29 00:36:19 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:36:19 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:36:19 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:36:19 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:37:55 [W] Warn 
+2014/07/29 00:37:55 [C] the request url is  /v1/object 
+2014/07/29 00:37:55 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:37:55 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:37:55 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:37:55 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:49:21 [W] Warn 
+2014/07/29 00:49:21 [C] the request url is  /v1/object 
+2014/07/29 00:49:21 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:49:21 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:49:21 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:49:21 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:55:41 [W] Warn 
+2014/07/29 00:55:41 [C] the request url is  /v1/object 
+2014/07/29 00:55:41 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:55:41 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:55:41 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:55:41 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 00:59:29 [W] Warn 
+2014/07/29 00:59:29 [C] the request url is  /v1/object 
+2014/07/29 00:59:29 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 00:59:29 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 00:59:29 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 00:59:29 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 01:00:36 [W] Warn 
+2014/07/29 01:00:36 [C] the request url is  /v1/object 
+2014/07/29 01:00:36 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 01:00:36 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 01:00:36 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 01:00:36 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 01:03:01 [W] Warn 
+2014/07/29 01:03:01 [C] the request url is  /v1/object 
+2014/07/29 01:03:01 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 01:03:01 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 01:03:01 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 01:03:01 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 01:07:54 [W] Warn 
+2014/07/29 01:07:54 [C] the request url is  /v1/object 
+2014/07/29 01:07:54 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 01:07:54 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 01:07:54 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 01:07:54 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 01:09:42 [W] Warn 
+2014/07/29 01:09:42 [C] the request url is  /v1/object 
+2014/07/29 01:09:42 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 01:09:42 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 01:09:42 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 01:09:42 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 
+2014/07/29 01:16:46 [W] Warn 
+2014/07/29 01:16:46 [C] the request url is  /v1/object 
+2014/07/29 01:16:46 [C] Handler crashed with error runtime error: invalid memory address or nil pointer dereference 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/runtime/panic.c 248 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/runtime/panic.c 552 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/runtime/os_darwin.c 454 
+2014/07/29 01:16:46 [C] /Users/sontl/go/src/art/controllers/object.go 43 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/runtime/asm_amd64.s 360 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/reflect/value.go 563 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/reflect/value.go 411 
+2014/07/29 01:16:46 [C] /Users/sontl/go/src/github.com/astaxie/beego/router.go 716 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/net/http/server.go 1673 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/net/http/server.go 1174 
+2014/07/29 01:16:46 [C] /usr/local/go/src/pkg/runtime/proc.c 1445 

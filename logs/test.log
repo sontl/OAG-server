@@ -1,0 +1,68 @@
+2014/07/28 23:17:21 [I] Test log 
+2014/07/28 23:17:21 [I] Running on :8080
+2014/07/28 23:17:37 [I] beego: router defined /v1/object/ /v1/object +4.870856ms 
+2014/07/28 23:18:28 [I] Test log 
+2014/07/28 23:18:28 [I] Running on :8080
+2014/07/28 23:18:40 [I] beego: router defined /v1/object/ /v1/object +4.828567ms 
+2014/07/28 23:19:23 [I] Test log 
+2014/07/28 23:19:23 [I] Running on :8080
+2014/07/28 23:19:26 [I] Test log 
+2014/07/28 23:19:26 [I] Running on :8080
+2014/07/28 23:19:28 [I] beego: router defined /v1/object/ /v1/object +5.793131ms 
+2014/07/28 23:20:37 [I] Test log 
+2014/07/28 23:20:37 [I] Running on :8080
+2014/07/28 23:21:12 [I] Test log 
+2014/07/28 23:21:12 [I] Running on :8080
+2014/07/28 23:21:15 [I] Test log 
+2014/07/28 23:21:15 [I] Running on :8080
+2014/07/28 23:21:17 [I] beego: router defined /v1/object/ /v1/object +5.605899ms 
+2014/07/28 23:21:52 [I] beego: router defined /v1/object/ /v1/object +5.5748ms 
+2014/07/28 23:28:31 [I] Test log 
+2014/07/28 23:28:31 [I] Running on :8080
+2014/07/28 23:28:32 [I] Test log 
+2014/07/28 23:28:32 [I] Running on :8080
+2014/07/28 23:28:33 [I] Test log 
+2014/07/28 23:28:33 [I] Running on :8080
+2014/07/28 23:28:42 [I] beego: router defined /v1/object/ /v1/object +4.624838ms 
+2014/07/28 23:32:32 [I] Test log 
+2014/07/28 23:32:32 [I] Running on :8080
+2014/07/28 23:32:35 [I] Test log 
+2014/07/28 23:32:35 [I] Running on :8080
+2014/07/28 23:34:14 [I] beego: router defined /v1/object/ /v1/object +7.488868ms 
+2014/07/29 00:05:39 [I] generate router from comments 
+2014/07/29 00:05:39 [I] /Users/sontl/go/src/art/controllers don't has updated 
+2014/07/29 00:05:39 [I] /Users/sontl/go/src/art/controllers don't has updated 
+2014/07/29 00:05:39 [I] Test log 
+2014/07/29 00:05:39 [I] Running on :8080
+2014/07/29 00:05:40 [I] Test log 
+2014/07/29 00:05:40 [I] Running on :8080
+2014/07/29 00:05:47 [I] beego: router defined /v1/object/ /v1/object +4.625221ms 
+2014/07/29 00:10:04 [I] Test log 
+2014/07/29 00:10:04 [I] Running on :8080
+2014/07/29 00:10:07 [I] Test log 
+2014/07/29 00:10:07 [I] Running on :8080
+2014/07/29 00:15:11 [I] Test log 
+2014/07/29 00:15:11 [I] Running on :8080
+2014/07/29 00:15:36 [I] beego: router defined /v1/object/ /v1/object +9.313775ms 
+2014/07/29 00:17:22 [I] Test log 
+2014/07/29 00:17:22 [I] Running on :8080
+2014/07/29 00:17:24 [I] Test log 
+2014/07/29 00:17:24 [I] Running on :8080
+2014/07/29 00:17:28 [I] Post 
+2014/07/29 00:17:28 [I] beego: router defined /v1/object/ /v1/object +4.474295ms 
+2014/07/29 00:18:37 [T] GetAll 
+2014/07/29 00:18:37 [I] beego: router defined /v1/object/ /v1/object +113.375us 
+2014/07/29 00:18:45 [T] GetAll 
+2014/07/29 00:18:45 [I] beego: router defined /v1/object/ /v1/object/ +121.837us 
+2014/07/29 00:19:20 [T] GetAll 
+2014/07/29 00:19:20 [I] beego: router defined /v1/object/ /v1/object/ +98.404us 
+2014/07/29 00:21:27 [I] Test log 
+2014/07/29 00:21:27 [I] Running on :8080
+2014/07/29 00:21:51 [I] Test log 
+2014/07/29 00:21:51 [I] Running on :8080
+2014/07/29 00:21:55 [I] Test log 
+2014/07/29 00:21:55 [I] Running on :8080
+2014/07/29 00:22:27 [I] Test log 
+2014/07/29 00:22:27 [I] Running on :8080
+2014/07/29 00:22:29 [I] Test log 
+2014/07/29 00:22:29 [I] Running on :8080
